@@ -24,7 +24,6 @@
     "react-scripts": "5.0.1",
     "spyne-pyxl": "1.0.4",
     "swiper": "11.0.5",
-    "vue-awesome-swiper": "5.0.1",
     "webpack-virtual-modules": "0.6.1",
     "yiyun-components": "2.0.29"
   },
